@@ -7,6 +7,10 @@ A python implementation of the nostalgic snake game.
   * The client-server communication is encrypted
   
 ## Additional required modules:
+  * pygame
+  
+  ```pip install pygame```
+  
   * passlib
   
   ```pip install passlib```
